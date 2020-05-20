@@ -11,6 +11,9 @@
     border: 2px solid black;
     padding: 1em;
   }  
+    a {
+    color: red;
+    text-decoration: underline;
     </head>
     <body>
   <a href="#main">Skip to main content</a>
