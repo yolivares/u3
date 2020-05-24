@@ -41,6 +41,7 @@
          <li><a href="javascript.html">Javascript</a></li>
           <li><a href="tools.html">Tools</a></li>
           <li><a href="graphics.html">Graphics</a></li>
+          <h2 id="filetypes">Graphic File Types</h2>
           <li><a href="accessibility.html">Accessibility</a></li>     
       </ul>
     </nav>
